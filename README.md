@@ -1,1 +1,2 @@
-# expense-tracker
+# Expense Tracker
+... doc coming soon!
