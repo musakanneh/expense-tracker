@@ -23,6 +23,6 @@ const ExpenseForm = () => {
             </div>
         </form>
     );
-}
+};
 
 export default ExpenseForm;
