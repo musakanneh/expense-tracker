@@ -1,7 +1,10 @@
-function Cards() {
+import './Card.css';
+
+function Card(props) {
+    const classes = 'card ' + props.className;
     return (
-        <div></div>
+        <div className={classes}>{props.children}</div>
     );
 }
 
-export default Cards;
+export default Card;
