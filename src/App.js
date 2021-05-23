@@ -1,6 +1,7 @@
 import React from "react";
 import Expenses from "./components/Expenses/Expenses";
 import NewExpense from "./components/NewExpense/NewExpense";
+// import ExpenseFilter from "./components/NewExpense/ExpenseFilter";
 
 const App = () => {
   const expenses = [
