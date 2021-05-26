@@ -5,3 +5,8 @@
     width: 50rem;
     max-width: 95%;
 }
+
+.no-expense-found {
+    color: #ED4945;
+    font-weight: bold;
+}
